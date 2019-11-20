@@ -1,0 +1,13 @@
+/* Body styling */
+body{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: teal;
+   color: whitesmoke;
+}
+
+ol li{
+   text-decoration: none;
+}
+ul li a{
+   text-decoration: none;
+}

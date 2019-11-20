@@ -1,0 +1,35 @@
+/* CSS RESET */
+
+/* BODY styling */
+body{
+   background-color: mediumvioletred;
+   color: mintcream;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+/* individual element styling */
+h1{
+   color:seashell;
+   text-align: center;
+}
+h2{
+   color:seashell;
+   font-style: italic;
+   text-align: center;
+}
+h3{
+   color:whitesmoke;
+}
+p{
+   /* some some some some some */
+}
+ul{
+   line-height: 40px;
+}
+ol{
+   line-height: 40px;
+}
+img{
+   height: 300px;
+   width: 300px;
+}
